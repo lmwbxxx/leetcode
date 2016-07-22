@@ -1,6 +1,6 @@
 import pdb
 
-const = 10
+const = 1337
 
 
 def toThePowOfTen(x):
