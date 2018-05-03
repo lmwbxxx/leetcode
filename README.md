@@ -1,2 +1,2 @@
 # leetcode
-writing python for fun
+For fun
